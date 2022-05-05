@@ -1,0 +1,8 @@
+{
+    "name": "MissingCropNotifier",
+    "entry": "index.js",
+    "author": "Dawjaw",
+    "description": "Notifies you and highlights missing crops",
+    "version": "1.0.1",
+    "requires": ["RenderLib", "Vigilance"]
+}
